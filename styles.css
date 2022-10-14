@@ -2,6 +2,19 @@ body {
     background: darkolivegreen;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.assignment {
+    display:flex;
+    padding:10px;
+    background: rgb(241, 227, 208);
+    margin:10px;
+}
+
+.assignment img {
+    width:200px;
+    padding:10px;
+}
+
 h1 {
     color: white;
     text-align: center;
